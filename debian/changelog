@@ -1,3 +1,9 @@
+openbfdd (0.5.3-5) precise; urgency=low
+
+  * Working build procedure
+
+ -- Andrey Shorin (HH R&D Expluatation) <a.shorin@hh.ru>  Mon, 13 Apr 2015 16:56:52 +0300
+
 openbfdd (0.5.3-4) precise; urgency=low
 
   * Added logrotate

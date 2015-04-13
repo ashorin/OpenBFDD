@@ -4,4 +4,4 @@
 <p>./autogen.sh</p>
 <p>./configure</p>
 <p>git buildpackage --git-ignore-new --git-no-create-orig --git-debian-branch=debianize --git-upstream-branch=master -b</p>
-<p>dput hh-precise ../openbfdd_0.5.3-4_amd64.changes</p>
+<p>dput hh-precise ../openbfdd_0.5.3-5_amd64.changes</p>
